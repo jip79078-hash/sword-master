@@ -3,16 +3,17 @@
     "id": "com.jpf.wrist.swordforge",
     "restype": "quick_app",
     "name": "铸剑大师",
-    "description": "再敲一锤，还是见好就收？点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集12种奇异剑形、搭配遗物，按日向巨龙纳贡，熬过21日契约。每3日来访的神秘商人带来奇剑、充能与锻造道具，让每局都有不同的选择。\n\n单机离线游玩，自动存档；剑架、商店、图鉴与道具菜单均支持上下滑动。金币兑换增速递减、商品随进度涨价并限购，保留后期资源取舍。\n\n适配小米手环9 Pro、10 Pro及REDMI Watch 5/6。9/10 Pro使用336×480布局；红米5/6使用432×514宽屏布局，重新安排按钮、文字与列表，保留剑和锤子的比例。新增型号采用自定义尺寸原生模拟器验证，尚未进行对应实机测试。",
+    "description": "再敲一锤，我要入神！！！点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集12种奇异剑形、搭配遗物，按日向巨龙纳贡，熬过21日契约。入神期间统一化为放大的发光彩虹冷钢剑，结束后恢复原剑型。每3日来访的神秘商人带来奇剑、充能与锻造道具。\n\n单机离线游玩，自动存档；大按钮与点击剑锻造，剑架、商店、图鉴与道具菜单均支持上下滑动。金币兑换增速递减，商品随进度涨价并限购，保留后期资源取舍。\n\n适配小米手环9 Pro、10 Pro及REDMI Watch 5/6。9/10 Pro采用336×480布局，红米5/6采用432×514宽屏布局，分别安排文字、按钮与列表，保留剑和锤子的比例。四款机型采用对应尺寸的原生模拟器验证，尚未完成全部型号的实机测试。",
     "preview": [
-      "media/preview-01-wide-forge.png",
-      "media/preview-02-pro-forge.png",
-      "media/preview-03-merchant.png",
-      "media/preview-04-tools.png",
-      "media/preview-05-tribute.png"
+      "media/01-bone-sword.png",
+      "media/02-tentacle-sword.png",
+      "media/03-candy-sword.png",
+      "media/04-rainbow-frenzy.png",
+      "media/05-mystery-merchant.png",
+      "media/06-tribute-refund.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover-v2.jpg",
+    "cover": "media/cover-v5.jpg",
     "author": [
       {
         "name": "Jip79078",
@@ -23,24 +24,48 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "0.6.0",
-      "file_name": "downloads/sword-master-redmi-watch5-6-0.6.0.rpk",
-      "versionCode": 8
+      "version": "0.7.2",
+      "file_name": "downloads/sword-master-redmi-watch5-6-0.7.2.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.7.2",
+          "content": "重做锻造页和菜单视觉，统一深色钢铁与黄铜配色；商店增加道具图标，剑架展示剑形缩略图。\n修正冰晶剑尖和锤子三帧显示，移除遮挡文字的装饰；加大锻造页菜单键及点击区域。\n入神统一显示放大的彩虹冷钢剑，采用明亮斜纹、亮白剑脊和柔和外发光，不加剑身外缘描边；入神结束后恢复原剑型和尺寸。\n保留连续上下滑动的菜单、左右确认按钮和离线自动存档，原有进度与经济规则沿用。\n9/10 Pro采用336×480布局，REDMI Watch 5/6采用432×514宽屏布局；分别使用对应尺寸的原生模拟器验证，尚未完成全部机型的实机测试。"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "0.6.0",
-      "file_name": "downloads/sword-master-redmi-watch5-6-0.6.0.rpk",
-      "versionCode": 8
+      "version": "0.7.2",
+      "file_name": "downloads/sword-master-redmi-watch5-6-0.7.2.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.7.2",
+          "content": "重做锻造页和菜单视觉，统一深色钢铁与黄铜配色；商店增加道具图标，剑架展示剑形缩略图。\n修正冰晶剑尖和锤子三帧显示，移除遮挡文字的装饰；加大锻造页菜单键及点击区域。\n入神统一显示放大的彩虹冷钢剑，采用明亮斜纹、亮白剑脊和柔和外发光，不加剑身外缘描边；入神结束后恢复原剑型和尺寸。\n保留连续上下滑动的菜单、左右确认按钮和离线自动存档，原有进度与经济规则沿用。\n9/10 Pro采用336×480布局，REDMI Watch 5/6采用432×514宽屏布局；分别使用对应尺寸的原生模拟器验证，尚未完成全部机型的实机测试。"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "0.6.0",
-      "file_name": "downloads/sword-master-band-pro-0.6.0.rpk",
-      "versionCode": 8
+      "version": "0.7.2",
+      "file_name": "downloads/sword-master-band-pro-0.7.2.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.7.2",
+          "content": "重做锻造页和菜单视觉，统一深色钢铁与黄铜配色；商店增加道具图标，剑架展示剑形缩略图。\n修正冰晶剑尖和锤子三帧显示，移除遮挡文字的装饰；加大锻造页菜单键及点击区域。\n入神统一显示放大的彩虹冷钢剑，采用明亮斜纹、亮白剑脊和柔和外发光，不加剑身外缘描边；入神结束后恢复原剑型和尺寸。\n保留连续上下滑动的菜单、左右确认按钮和离线自动存档，原有进度与经济规则沿用。\n9/10 Pro采用336×480布局，REDMI Watch 5/6采用432×514宽屏布局；分别使用对应尺寸的原生模拟器验证，尚未完成全部机型的实机测试。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "0.6.0",
-      "file_name": "downloads/sword-master-band-pro-0.6.0.rpk",
-      "versionCode": 8
+      "version": "0.7.2",
+      "file_name": "downloads/sword-master-band-pro-0.7.2.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.7.2",
+          "content": "重做锻造页和菜单视觉，统一深色钢铁与黄铜配色；商店增加道具图标，剑架展示剑形缩略图。\n修正冰晶剑尖和锤子三帧显示，移除遮挡文字的装饰；加大锻造页菜单键及点击区域。\n入神统一显示放大的彩虹冷钢剑，采用明亮斜纹、亮白剑脊和柔和外发光，不加剑身外缘描边；入神结束后恢复原剑型和尺寸。\n保留连续上下滑动的菜单、左右确认按钮和离线自动存档，原有进度与经济规则沿用。\n9/10 Pro采用336×480布局，REDMI Watch 5/6采用432×514宽屏布局；分别使用对应尺寸的原生模拟器验证，尚未完成全部机型的实机测试。"
+        }
+      ]
     }
   },
   "ext": {
