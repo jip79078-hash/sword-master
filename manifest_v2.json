@@ -1,0 +1,49 @@
+{
+  "item": {
+    "id": "com.jpf.wrist.swordforge",
+    "restype": "quick_app",
+    "name": "铸剑大师",
+    "description": "再敲一锤，还是见好就收？点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集12种奇异剑形、搭配遗物，按日向巨龙纳贡，熬过21日契约。每3日来访的神秘商人带来奇剑、充能与锻造道具，让每局都有不同的选择。\n\n单机离线游玩，自动存档；剑架、商店、图鉴与道具菜单均支持上下滑动。金币兑换增速递减、商品随进度涨价并限购，保留后期资源取舍。\n\n适配小米手环9 Pro、10 Pro及REDMI Watch 5/6。9/10 Pro使用336×480布局；红米5/6使用432×514宽屏布局，重新安排按钮、文字与列表，保留剑和锤子的比例。新增型号采用自定义尺寸原生模拟器验证，尚未进行对应实机测试。",
+    "preview": [
+      "media/preview-01-wide-forge.png",
+      "media/preview-02-pro-forge.png",
+      "media/preview-03-merchant.png",
+      "media/preview-04-tools.png",
+      "media/preview-05-tribute.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover-v2.jpg",
+    "author": [
+      {
+        "name": "Jip79078",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.6.0",
+      "file_name": "downloads/sword-master-redmi-watch5-6-0.6.0.rpk",
+      "versionCode": 8
+    },
+    "xmrw6": {
+      "version": "0.6.0",
+      "file_name": "downloads/sword-master-redmi-watch5-6-0.6.0.rpk",
+      "versionCode": 8
+    },
+    "xmb9p": {
+      "version": "0.6.0",
+      "file_name": "downloads/sword-master-band-pro-0.6.0.rpk",
+      "versionCode": 8
+    },
+    "xmb10p": {
+      "version": "0.6.0",
+      "file_name": "downloads/sword-master-band-pro-0.6.0.rpk",
+      "versionCode": 8
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
