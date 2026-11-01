@@ -21,7 +21,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "手环小游戏玩家交流群 🎮",
+      "url": "https://qm.qq.com/q/6S09L9PS6I",
+      "icon": "chats"
+    }
+  ],
   "downloads": {
     "xmrw5": {
       "version": "0.7.4",
