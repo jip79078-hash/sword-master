@@ -178,6 +178,53 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true
+    "enableAstroBoxCreatorFeatures": true,
+    "trialDownloads": {
+      "xmrw5": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-redmi5-6-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmrw6": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-redmi5-6-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb10": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-band10-11-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb10nfc": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-band10-11-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb10p": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-pro-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb11": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-band10-11-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb11nfc": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-band10-11-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb9p": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-pro-0.8.101.rpk",
+        "versionCode": 27
+      },
+      "xmb9": {
+        "version": "0.8.101",
+        "file_name": "downloads/trial/sword-master-trial-band9-0.8.101.rpk",
+        "versionCode": 27
+      }
+    }
   }
 }
