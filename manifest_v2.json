@@ -3,7 +3,7 @@
     "id": "com.jpf.wrist.swordforge",
     "restype": "quick_app",
     "name": "铸剑大师",
-    "description": "一锤入神！！！点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集20种剑形，包括咸鱼、尺子、门板、圣诞树和卡通红螯剑，另有三款锻造达到 +99 才会显现的满级剑形。搭配遗物，按日向巨龙纳贡，挑战21日契约。入神时化为发光彩虹剑，结束后恢复原剑形。每3日来访的神秘商人带来奇剑、充能与锻造道具。\n\n单机离线，自动存档。剑架、商店、遗物与图鉴均可上下滑动；遗物使用剑币购买，兑币时可选择并确认消耗哪把剑。纳贡达标后按贡品总价 1:1 返还金币。新契约从第15日起普通商店每天限购两把新剑，第21日须交足贡品才能通关。\n\n支持小米手环9、10、11、9 Pro、10 Pro，手环10/11 NFC及REDMI Watch 5/6。宽屏与窄屏分别布局，四种目标分辨率经原生模拟器验证。",
+    "description": "一锤入神！！！点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集20种剑形，包括咸鱼、尺子、门板、圣诞树和卡通红螯剑，另有三款锻造达到 +99 才会显现的满级剑形。搭配遗物，按日向巨龙纳贡，挑战21日契约。入神时化为发光彩虹剑，结束后恢复原剑形。每3日来访的神秘商人带来奇剑、充能与锻造道具。\n\n单机离线，自动存档。剑架、商店、遗物与图鉴均可上下滑动；遗物使用剑币购买，兑币时可选择并确认消耗哪把剑。纳贡达标后按贡品总价 1:1 返还金币。新契约从第15日起普通商店每天限购两把新剑，第21日须交足贡品才能通关。\n\n设备包括小米手环 9、10、11、9 Pro、10 Pro、10 NFC、11 NFC，REDMI Watch 5、5 eSIM、6，以及小米手表 S3、S4、S4 41mm、S4 15 周年纪念版、S5、S5 41mm。圆屏版专门调整了锻造台、滚动列表和底部操作区，已用 466×466 和 480×480 原生模拟器验证。",
     "preview": [
       "media/01-pro-fish-090.png",
       "media/02-pro-frenzy-090.png",
@@ -211,6 +211,41 @@
           "content": "新增小米手环9、10/11及10/11 NFC窄屏适配，与9/10 Pro、REDMI Watch 5/6共九个设备入口统一更新。\n按四种目标分辨率优化布局，扩大玩法、图鉴、菜单和返回点击区；修复菜单误触纳贡，窄屏采用顶部弧形返回，列表连续上下滑动。\n剑型扩充至16种，新增咸鱼、尺子、门板与圣诞树；保留发光彩虹入神。\n遗物使用剑币购买，兑币时手动选剑并确认；同步限购、遗物定价与后期难度，兼容旧存档。\n更换宽窄屏同框封面及0.9.0原生预览；原售价与商品权益不变。\n四种目标尺寸经原生模拟器验证，9 Pro此前收到用户试玩反馈，本次尚未逐款完成实机测试。"
         }
       ]
+    },
+    "xmws3": {
+      "version": "0.9.4",
+      "file_name": "downloads/sword-master-round-0.9.4.rpk",
+      "versionCode": 32
+    },
+    "xmws4": {
+      "version": "0.9.4",
+      "file_name": "downloads/sword-master-round-0.9.4.rpk",
+      "versionCode": 32
+    },
+    "xmws441": {
+      "version": "0.9.4",
+      "file_name": "downloads/sword-master-round-0.9.4.rpk",
+      "versionCode": 32
+    },
+    "xmws541": {
+      "version": "0.9.4",
+      "file_name": "downloads/sword-master-round-0.9.4.rpk",
+      "versionCode": 32
+    },
+    "xmws5": {
+      "version": "0.9.4",
+      "file_name": "downloads/sword-master-round-0.9.4.rpk",
+      "versionCode": 32
+    },
+    "xmws4xring": {
+      "version": "0.9.4",
+      "file_name": "downloads/sword-master-round-0.9.4.rpk",
+      "versionCode": 32
+    },
+    "xmrw5xring": {
+      "version": "0.9.3",
+      "file_name": "downloads/sword-master-redmi5-6-0.9.3-xmrw5xring.rpk",
+      "versionCode": 31
     }
   },
   "ext": {
