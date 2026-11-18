@@ -3,7 +3,7 @@
     "id": "com.jpf.wrist.swordforge",
     "restype": "quick_app",
     "name": "铸剑大师",
-    "description": "一锤入神！！！点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集20种剑形，包括咸鱼、尺子、门板、圣诞树和卡通红螯剑，另有三款锻造达到 +99 才会显现的满级剑形。搭配遗物，按日向巨龙纳贡，挑战21日契约。入神时化为发光彩虹剑，结束后恢复原剑形。每3日来访的神秘商人带来奇剑、充能与锻造道具。\n\n单机离线，自动存档。剑架、商店、遗物与图鉴均可上下滑动；遗物使用剑币购买，兑币时可选择并确认消耗哪把剑。纳贡达标后按贡品总价 1:1 返还金币。新契约从第15日起普通商店每天限购两把新剑，第21日须交足贡品才能通关。\n\n设备包括小米手环 9、10、11、9 Pro、10 Pro、10 NFC、11 NFC，REDMI Watch 5、5 eSIM、6，以及小米手表 S3、S4、S4 41mm、S4 15 周年纪念版、S5、S5 41mm。圆屏版专门调整了锻造台、滚动列表和底部操作区，已用 466×466 和 480×480 原生模拟器验证。",
+    "description": "一锤入神！！！点击剑落锤，在成功升值、入神连锤与碎剑风险之间作出选择。收集20种剑形，包括咸鱼、尺子、门板、圣诞树和卡通红螯剑，另有三款锻造达到 +99 才会显现的满级剑形。搭配遗物，按日向巨龙纳贡，挑战21日契约。入神时化为发光彩虹剑，结束后恢复原剑形。每3日来访的神秘商人带来奇剑、充能与锻造道具。\n\n单机离线，自动存档。剑架、商店、遗物与图鉴均可上下滑动；遗物使用剑币购买，兑币时可选择并确认消耗哪把剑。纳贡达标后按贡品总价 1:1 返还金币。新契约从第15日起普通商店每天限购两把新剑，第21日交足贡品后，留在剑架上的剑可以带入龙巢。选一把剑，点击巨龙挥剑，剑的价值决定攻击力。\n\n设备包括小米手环 9、10、11、9 Pro、10 Pro、10 NFC、11 NFC，REDMI Watch 5、5 eSIM、6，以及小米手表 S3、S4、S4 41mm、S4 15 周年纪念版、S5、S5 41mm。圆屏版专门调整了锻造台、滚动列表和底部操作区，已用 466×466 和 480×480 原生模拟器验证。",
     "preview": [
       "media/01-pro-fish-090.png",
       "media/02-pro-frenzy-090.png",
@@ -30,9 +30,9 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-redmi5-6-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-redmi5-6-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -57,9 +57,9 @@
       ]
     },
     "xmrw6": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-redmi5-6-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-redmi5-6-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -84,9 +84,9 @@
       ]
     },
     "xmb9p": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-pro-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-pro-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -111,9 +111,9 @@
       ]
     },
     "xmb10p": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-pro-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-pro-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -138,9 +138,9 @@
       ]
     },
     "xmb10": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-band10-11-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-band10-11-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -153,9 +153,9 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-band10-11-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-band10-11-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -168,9 +168,9 @@
       ]
     },
     "xmb11": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-band10-11-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-band10-11-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -183,9 +183,9 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-band10-11-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-band10-11-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -198,9 +198,9 @@
       ]
     },
     "xmb9": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-band9-0.9.3.rpk",
-      "versionCode": 31,
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-band9-0.10.10.rpk",
+      "versionCode": 35,
       "updatelogs": [
         {
           "version": "0.9.3",
@@ -213,39 +213,39 @@
       ]
     },
     "xmws3": {
-      "version": "0.9.4",
-      "file_name": "downloads/sword-master-round-0.9.4.rpk",
-      "versionCode": 32
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-round-0.10.10.rpk",
+      "versionCode": 35
     },
     "xmws4": {
-      "version": "0.9.4",
-      "file_name": "downloads/sword-master-round-0.9.4.rpk",
-      "versionCode": 32
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-round-0.10.10.rpk",
+      "versionCode": 35
     },
     "xmws441": {
-      "version": "0.9.4",
-      "file_name": "downloads/sword-master-round-0.9.4.rpk",
-      "versionCode": 32
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-round-0.10.10.rpk",
+      "versionCode": 35
     },
     "xmws541": {
-      "version": "0.9.4",
-      "file_name": "downloads/sword-master-round-0.9.4.rpk",
-      "versionCode": 32
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-round-0.10.10.rpk",
+      "versionCode": 35
     },
     "xmws5": {
-      "version": "0.9.4",
-      "file_name": "downloads/sword-master-round-0.9.4.rpk",
-      "versionCode": 32
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-round-0.10.10.rpk",
+      "versionCode": 35
     },
     "xmws4xring": {
-      "version": "0.9.4",
-      "file_name": "downloads/sword-master-round-0.9.4.rpk",
-      "versionCode": 32
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-round-0.10.10.rpk",
+      "versionCode": 35
     },
     "xmrw5xring": {
-      "version": "0.9.3",
-      "file_name": "downloads/sword-master-redmi5-6-0.9.3-xmrw5xring.rpk",
-      "versionCode": 31
+      "version": "0.10.10",
+      "file_name": "downloads/sword-master-redmi5-6-0.10.10.rpk",
+      "versionCode": 35
     }
   },
   "ext": {
