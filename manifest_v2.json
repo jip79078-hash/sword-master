@@ -128,6 +128,10 @@
       "versionCode": 36,
       "updatelogs": [
         {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        },
+        {
           "version": "0.9.3",
           "content": "新增卡通红螯剑和三款 +99 满级剑形，图鉴共 20 款。\n纳贡达标后按贡品总价 1:1 返金，调整商店价格和入神遗物。\n新契约第 15 日起每日限购两把新剑，第 21 日须交足贡品。旧契约沿用原难度。"
         },
@@ -155,6 +159,10 @@
       "versionCode": 36,
       "updatelogs": [
         {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        },
+        {
           "version": "0.9.3",
           "content": "新增卡通红螯剑和三款 +99 满级剑形，图鉴共 20 款。\n纳贡达标后按贡品总价 1:1 返金，调整商店价格和入神遗物。\n新契约第 15 日起每日限购两把新剑，第 21 日须交足贡品。旧契约沿用原难度。"
         },
@@ -169,6 +177,10 @@
       "file_name": "downloads/sword-master-band10-11-0.10.11.rpk",
       "versionCode": 36,
       "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        },
         {
           "version": "0.9.3",
           "content": "新增卡通红螯剑和三款 +99 满级剑形，图鉴共 20 款。\n纳贡达标后按贡品总价 1:1 返金，调整商店价格和入神遗物。\n新契约第 15 日起每日限购两把新剑，第 21 日须交足贡品。旧契约沿用原难度。"
@@ -185,6 +197,10 @@
       "versionCode": 36,
       "updatelogs": [
         {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        },
+        {
           "version": "0.9.3",
           "content": "新增卡通红螯剑和三款 +99 满级剑形，图鉴共 20 款。\n纳贡达标后按贡品总价 1:1 返金，调整商店价格和入神遗物。\n新契约第 15 日起每日限购两把新剑，第 21 日须交足贡品。旧契约沿用原难度。"
         },
@@ -199,6 +215,10 @@
       "file_name": "downloads/sword-master-band10-11-0.10.11.rpk",
       "versionCode": 36,
       "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        },
         {
           "version": "0.9.3",
           "content": "新增卡通红螯剑和三款 +99 满级剑形，图鉴共 20 款。\n纳贡达标后按贡品总价 1:1 返金，调整商店价格和入神遗物。\n新契约第 15 日起每日限购两把新剑，第 21 日须交足贡品。旧契约沿用原难度。"
@@ -215,6 +235,10 @@
       "versionCode": 36,
       "updatelogs": [
         {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        },
+        {
           "version": "0.9.3",
           "content": "新增卡通红螯剑和三款 +99 满级剑形，图鉴共 20 款。\n纳贡达标后按贡品总价 1:1 返金，调整商店价格和入神遗物。\n新契约第 15 日起每日限购两把新剑，第 21 日须交足贡品。旧契约沿用原难度。"
         },
@@ -227,37 +251,79 @@
     "xmws3": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-round-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     },
     "xmws4": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-round-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     },
     "xmws441": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-round-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     },
     "xmws541": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-round-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     },
     "xmws5": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-round-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     },
     "xmws4xring": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-round-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "0.10.11",
       "file_name": "downloads/sword-master-redmi5-6-0.10.11.rpk",
-      "versionCode": 36
+      "versionCode": 36,
+      "updatelogs": [
+        {
+          "version": "0.10.11",
+          "content": "优化启动时的内存占用。首页先显示，进入锻造、玩法或图鉴时再加载对应内容。已有存档可直接继续。"
+        }
+      ]
     }
   },
   "ext": {
